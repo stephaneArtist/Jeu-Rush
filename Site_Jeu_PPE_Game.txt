@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<title>Projet SIG Inscription</title>
+		<meta charset="utf-8">
+	</head>
+</html>
